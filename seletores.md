@@ -47,5 +47,5 @@ Confira o resultado:
 
 ![](/assets/id-class.png)
 
-
+Com o uso de classes e identificadores torna-se mais fácil reaproveitar e aplicar estilo em pequenas partes da página ou elementos específicos. 
 
