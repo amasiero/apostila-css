@@ -72,5 +72,7 @@ O seguinte resultado é apresentado:
 
 ![](/assets/grupo-seletores.png)
 
+Além disso, é possível criar uma hieraquia de seletores, por exemplo, formatar apenas os parágrafos \(&lt;p&gt;\) que estão dentro de uma div com identificador específico. Veja o exemplo:
+
 
 
