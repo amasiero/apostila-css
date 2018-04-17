@@ -8,5 +8,7 @@ Existem algumas maneira de aplicar o estilo em uma página HTML. A forma mais si
 
 A figura abaixo apresenta o resultado obtido através da formatação:
 
+![](/assets/inline-formatacao.png)
+
 
 
