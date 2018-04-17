@@ -30,5 +30,7 @@ Outra maneira de aplicar a formatação em uma página HTML é utilizando a tag 
 
 Confira o resultado que obtem-se com esse código:
 
+![](/assets/internal-estilo.png)
 
+Ainda pode-se criar um arquivo de estilo para que a formatação criada seja aproveitada em diversos 
 
