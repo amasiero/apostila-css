@@ -32,5 +32,27 @@ Confira o resultado que obtem-se com esse código:
 
 ![](/assets/internal-estilo.png)
 
-Ainda pode-se criar um arquivo de estilo para que a formatação criada seja aproveitada em diversas páginas. Essa é uma aplicação de _estilo externa_.
+Ainda pode-se criar um arquivo de estilo para que a formatação criada seja aproveitada em diversas páginas. Essa é uma aplicação de _estilo externa_. O primeiro passo é criar um arquivo com a extensão css. Seu conteúdo é o mesmo que é inserido entre as tags **&lt;style&gt; ... &lt;/style&gt;**.
+
+```css
+p {
+    color: navyblue;
+}
+```
+
+E depois se insere o arquivo através de um link, dentro do arquivo html que deseja utilizar o estilo.
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+<body>
+    <p>Leia e Han Solo são o casal mais sensacional do universo!</p>
+</body>
+</html>
+```
+
+
 
