@@ -4,7 +4,5 @@ Nesse capítulo é apresentado os principais estilos para formatar os textos em 
 
 ## Fonte
 
-
-
-
+Existem várias propriedades
 
