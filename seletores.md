@@ -8,5 +8,16 @@ seletor {
 }
 ```
 
+Por exemplo, para formatar um seletor **div** que existe em uma página HTML faz-se o seguinte código.
+
+```css
+div {
+    background-color: lightgrey;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 30px;
+}
+```
+
 
 
