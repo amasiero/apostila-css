@@ -10,5 +10,25 @@ A figura abaixo apresenta o resultado obtido através da formatação:
 
 ![](/assets/inline-formatacao.png)
 
+Outra maneira de aplicar a formatação em uma página HTML é utilizando a tag **style** dentro da head. Essa aplicação de estilo é conhecida como _estilos internos_.
+
+```html
+<html>
+    <head>
+        <title>Exemplos de Estilo com CSS</title>
+        <style>
+            p {
+                color: lime;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Leia e Han Solo são o casal mais sensacional do universo!</p>
+    </body>
+</html>
+```
+
+Confira o resultado que obtem-se com esse código:
+
 
 
