@@ -21,7 +21,7 @@ div {
 
 Porém, não é apenas com o uso dos seletores dados através dos nomes das tags que utiliza-se no CSS. Existem outras duas maneiras que pode-se aplicar estilo nos elementos da página. Pode-se aplicar através de uma identificação, utilizando o carácter  da cerquilha ou hashtag \(\#\) ou também com uma classe através do carácter ponto \(.\).
 
-```
+```html
 <html>
 <head>
     <title>Exemplos de Estilo com CSS</title>
