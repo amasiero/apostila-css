@@ -4,7 +4,7 @@ Uma definição para seletores em CSS são todos os elementos que geram alguma s
 
 ```css
 seletor {
-    atributo : valor;
+    propriedade : valor;
 }
 ```
 
