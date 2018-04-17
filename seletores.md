@@ -43,5 +43,9 @@ Porém, não é apenas com o uso dos seletores dados através dos nomes das tags
 </html>
 ```
 
+Confira o resultado:
+
+![](/assets/id-class.png)
+
 
 
