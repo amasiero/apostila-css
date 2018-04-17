@@ -47,5 +47,28 @@ Confira o resultado:
 
 ![](/assets/id-class.png)
 
-Com o uso de classes e identificadores torna-se mais fácil reaproveitar e aplicar estilo em pequenas partes da página ou elementos específicos. Uma outra forma de aproveitar a formatação do estilo é aplicá-la em grupo de seletores.
+Com o uso de classes e identificadores torna-se mais fácil reaproveitar e aplicar estilo em pequenas partes da página ou elementos específicos. Uma outra forma de aproveitar a formatação do estilo é aplicá-la em grupo de seletores. Para isso, basta separar os seletores através de uma vírgula \(,\).
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p, h1 {
+            color : darkblue;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p>Leia e Han Solo são o casal mais sensacional do universo!</p>
+    </div>
+</body>
+</html>
+```
+
+O seguinte resultado é apresentado:
+
+
 
