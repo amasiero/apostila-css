@@ -4,5 +4,5 @@ Nesse capítulo é apresentado os principais estilos para formatar os textos em 
 
 ## Fonte
 
-Existem várias propriedades
+Existem várias propriedades que auxiliam na formatação das fontes do texto que é exibido na página
 
