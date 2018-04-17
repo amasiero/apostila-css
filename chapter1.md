@@ -6,5 +6,7 @@ Existem algumas maneira de aplicar o estilo em uma página HTML. A forma mais si
 <p style="color: red;"> Timão e Pumba a dupla que é demais! </p>
 ```
 
+A figura abaixo apresenta o resultado obtido através da formatação:
+
 
 
