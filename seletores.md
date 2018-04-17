@@ -70,5 +70,7 @@ Com o uso de classes e identificadores torna-se mais fácil reaproveitar e aplic
 
 O seguinte resultado é apresentado:
 
+![](/assets/grupo-seletores.png)
+
 
 
