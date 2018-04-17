@@ -109,7 +109,5 @@ Confira o resultado da formatação:
 
 ![](/assets/hierarquia-seletores.png)
 
-
-
-
+Apresentado as maneiras de criar estilo, nos capítulos seguintes é demonstrado a formatação dos principais elementos de estilo.
 
