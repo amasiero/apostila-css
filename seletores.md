@@ -74,5 +74,38 @@ O seguinte resultado é apresentado:
 
 Além disso, é possível criar uma hieraquia de seletores, por exemplo, formatar apenas os parágrafos \(&lt;p&gt;\) que estão dentro de uma div com identificador específico. Veja o exemplo:
 
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        #formatado {
+            width: 400px;
+            background-color: lightgrey;
+            padding: 20px;
+        }
+        
+        #formatado p {
+            color : navy;
+        }
+
+        p {
+            color : blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Star Wars</h1>
+    <p>É a história mais incrível que já existiu! Desculpa Batman!</p>
+    <div id="formatado">
+        <p>E ainda tem personagens completos, com diversas características legais.</p>
+        <p>Leia e Han Solo são o casal mais sensacional do universo!</p>
+    </div>
+</body>
+</html>
+```
+
+Confira o resultado da formatação:
+
 
 
