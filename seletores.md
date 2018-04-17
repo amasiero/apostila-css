@@ -84,7 +84,7 @@ Além disso, é possível criar uma hieraquia de seletores, por exemplo, formata
             background-color: lightgrey;
             padding: 20px;
         }
-        
+
         #formatado p {
             color : navy;
         }
@@ -106,6 +106,10 @@ Além disso, é possível criar uma hieraquia de seletores, por exemplo, formata
 ```
 
 Confira o resultado da formatação:
+
+![](/assets/hierarquia-seletores.png)
+
+
 
 
 
