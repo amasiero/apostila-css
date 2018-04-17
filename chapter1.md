@@ -36,7 +36,7 @@ Ainda pode-se criar um arquivo de estilo para que a formatação criada seja apr
 
 ```css
 p {
-    color: navyblue;
+    color: navy;
 }
 ```
 
@@ -53,6 +53,8 @@ E depois se insere o arquivo através de um link, dentro do arquivo html que des
 </body>
 </html>
 ```
+
+Veja o resultado:
 
 
 
