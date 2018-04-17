@@ -58,5 +58,5 @@ Veja o resultado:
 
 ![](/assets/estilo-externo.png)
 
-Essas são as maneiras mais populares para inclusão de um arquivo de estilo CSS em uma página. Ainda pode-se utilizar uma maneira que importa um arquivo dentro de sua página ou até mesmo de um arquivo css.
+Nessa apostila, por questões didáticas, será adodato o uso da aplicação de estilo interna.
 
