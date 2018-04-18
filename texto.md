@@ -249,5 +249,39 @@ Resultado:
 
 ![](/assets/text-shadow.png)
 
+A última propriedade de texto apresentada é **text-transform**. Essa propriedade auxilia a transforma o tipo de caixa do texto \(Maiúscula e Minúscula\). Os valores são: lowercase \(minúscula\), uppercase \(maiúscula\) e capitalize \(primeira letra de cada palavra em maiúscula\). Veja o exemplo:
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p.a {
+            text-transform: lowercase; 
+        }
+
+        p.b {
+            text-transform: capitalize;
+        }
+
+        p.c {
+            text-transform: uppercase;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p class="a">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p class="b">E ainda tem personagens completos, com diversas características legais.</p>
+        <p class="c">Leia e Han Solo são o casal mais sensacional do universo!</p>
+    </div>
+</body>
+</html>
+```
+
+Resultado:
+
 
 
