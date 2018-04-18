@@ -22,8 +22,6 @@ Existem várias propriedades que auxiliam na formatação das fontes do texto qu
 
 * font: é um atalho para utilizar as propriedades acima.
 
-
-
 ```html
 <html>
 <head>
@@ -32,7 +30,7 @@ Existem várias propriedades que auxiliam na formatação das fontes do texto qu
         #size {
             font-size: 20px;
         }
-        
+
         #family {
             font-family: Helvetica, Arial, Sans-Serif;
         }
@@ -60,7 +58,7 @@ Existem várias propriedades que auxiliam na formatação das fontes do texto qu
 </html>
 ```
 
-
+Resultado:
 
 
 
