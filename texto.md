@@ -137,5 +137,43 @@ A primeira propriedade que é apresentada referente a textos em geral tem como o
 
 Resultado:![](/assets/text-align.png)
 
-Outra propriedade existem para textos são decorações como sublinhado, linhas acima do texto ou até mesmo em cima do texto. Essa propriedade é chamada de **text-decoration**.
+Outra propriedade existem para textos são decorações como sublinhado, linhas acima do texto ou até mesmo em cima do texto. Essa propriedade é chamada de **text-decoration**. Os valores esperados por essa propriedade são: underline \(sublinhado\), overline \(linha acima do texto\) e line-through \(texto riscado\). Esses valores também podem ser combinados gerando novos tipos de decorações. Confira o exemplo abaixo:
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p.a {
+            text-decoration: underline;
+        }
+
+        p.b {
+            text-decoration: overline;
+        }
+
+        p.c {
+            text-decoration: line-through;
+        }
+
+        p.d {
+            text-decoration: underline overline line-through;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p class="a">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p class="b">E ainda tem personagens completos, com diversas características legais.</p>
+        <p class="c">Leia e Han Solo são o casal mais sensacional do universo!</p>
+        <p class="d">Mas não esqueça do Chewie! Arrrrghhhhhh!!!!</p>
+    </div>
+</body>
+</html>
+```
+
+Resultado:
+
+![](/assets/text-decoration.png)
 
