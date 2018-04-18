@@ -187,5 +187,5 @@ p.a {
 
 Resultado:
 
-
+![](/assets/text-decoration-full.png)
 
