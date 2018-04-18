@@ -177,3 +177,15 @@ Resultado:
 
 ![](/assets/text-decoration.png)
 
+Pode-se ainda definir o tipo de linha e a cor da linha na propriedade do **text-decoration**. Veja o exemplo:
+
+```css
+p.a {
+        text-decoration: underline red dashed;
+}
+```
+
+Resultado:
+
+
+
