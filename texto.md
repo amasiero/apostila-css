@@ -285,5 +285,5 @@ Resultado:
 
 ![](/assets/text-transform.png)
 
-Essas são as principais propriedades para formatação de texto em geral dentro de uma página HTML ou quaquer linguagem de marcação onde seja aplicado o CSS3. Mais informações estão disponíveis no site do W3C.
+Essas são as principais propriedades para formatação de texto em geral dentro de uma página HTML ou quaquer linguagem de marcação onde seja aplicado o CSS3. Mais informações estão disponíveis no site do [W3C](https://www.w3schools.com/css/default.asp).
 
