@@ -189,3 +189,5 @@ Resultado:
 
 ![](/assets/text-decoration-full.png)
 
+Os estilos suportados pelas linhas são: solid, double, dashed, dotted, wavy.
+
