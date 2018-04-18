@@ -42,5 +42,5 @@ Resultado:
 
 ![](/assets/links-formatados.png)
 
-Agora o efeito da pseudo classe hover é mais perceptível, pois a formatação do estilo aplicado foi alterado \("Ir linha 4"\).
+Agora o efeito da pseudo classe hover é mais perceptível, pois a formatação do estilo aplicado foi alterado \("Ir linha 4"\). Assim, é possível criar até formatação de botões para cada um dos links âncoras utilizados na página.
 
