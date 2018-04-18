@@ -137,7 +137,5 @@ A primeira propriedade que é apresentada referente a textos em geral tem como o
 
 Resultado:![](/assets/text-align.png)
 
-
-
-
+Outra propriedade existem para textos são decorações como sublinhado, linhas acima do texto ou até mesmo em cima do texto. Essa propriedade é chamada de **text-decoration**.
 
