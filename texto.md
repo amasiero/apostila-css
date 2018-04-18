@@ -218,5 +218,7 @@ Outra propriedade que pode ser aplicada é a indentação da primeira linha do t
 
 Resultado:
 
+![](/assets/text-indent.png)
+
 
 
