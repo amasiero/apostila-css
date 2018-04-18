@@ -60,5 +60,5 @@ Existem várias propriedades que auxiliam na formatação das fontes do texto qu
 
 Resultado:
 
-
+![](/assets/fonts.png)
 
