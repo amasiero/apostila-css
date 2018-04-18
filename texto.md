@@ -16,7 +16,7 @@ Existem várias propriedades que auxiliam na formatação das fontes do texto qu
   * xx-large
   * smaller
   * larger
-* font-family: 
+* font-family: determinar qual fonte deve ser aplicada no texto. Essas fontes devem ser instaladas no computador do cliente. Pode-se determinar o valor de uma fonte em específico, como "Arial" , "Times", "Verdana", "Helvetica", entre outras. Ou de uma maneira mais genérica com as opções: "serif", "sans-serif", "cursive", "fantasy", "monospace".
 
 
 
