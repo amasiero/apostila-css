@@ -5,4 +5,5 @@
 * [Seletores](seletores.md)
 * [Texto](texto.md)
 * [Links Âncoras](links-ancoras.md)
+* [Elementos Gerais](elementos-gerais.md)
 
