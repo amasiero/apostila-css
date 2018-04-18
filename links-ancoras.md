@@ -19,7 +19,7 @@ Resultado:
 
 ![](/assets/link-antes.png)
 
-Perceba que o linha "Ir linha 2" já foi visitado. Nesse caso ele apenas troca a cor do texto. A pseudo classe hover apenas troca a figura do ponteiro do mouse. Agora, veja o código que torna possível a manipulação de cada uma das pseudo classes.
+Perceba que o linha "Ir linha 2" já foi visitado. Nesse caso ele apenas troca a cor do texto. A pseudo classe hover apenas troca a figura do ponteiro do mouse. Agora, veja o código que torna possível a manipulação de cada uma das pseudo classes:
 
 ```html
 <style type="text/css">
@@ -38,5 +38,9 @@ Perceba que o linha "Ir linha 2" já foi visitado. Nesse caso ele apenas troca a
 </style>
 ```
 
+Resultado:
 
+![](/assets/links-formatados.png)
+
+Agora o efeito da pseudo classe hover é mais perceptível, pois a formatação do estilo aplicado foi alterado \("Ir linha 4"\).
 
