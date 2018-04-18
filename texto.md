@@ -191,3 +191,32 @@ Resultado:
 
 Os estilos suportados pelas linhas são: solid, double, dashed, dotted, wavy.
 
+Outra propriedade que pode ser aplicada é a indentação da primeira linha do texto. É um recuo que existe para iniciar o parágrafo. Essa propriedade é **text-indent**. Deve-se informar o tamanho do recuo de acordo com as [unidades do CSS. ](https://www.w3schools.com/cssref/css_units.asp.)Veja um exemplo utilizando o recuo de 20 pixels.
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p {
+            text-indent: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p>É a história mais incrível que já existiu! Desculpa Batman!
+        E ainda tem personagens completos, com diversas características legais.
+        Leia e Han Solo são o casal mais sensacional do universo!
+        Mas não esqueça do Chewie! Arrrrghhhhhh!!!!</p>
+    </div>
+</body>
+</html>
+```
+
+Resultado:
+
+
+
