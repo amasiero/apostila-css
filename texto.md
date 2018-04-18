@@ -64,5 +64,36 @@ Resultado:
 
 Caso seja uma opção utilizar uma família de fonte que não esteja instalada no computador do cliente, é possível informar o arquivo de uma família de fonte armazenada no servidor e fazer com que o navegador utilize ela. Porém, cuidado com  o tipo de fonte, pois não são todas suportadas nos navegadores.
 
+Para criar a família de fonte é utilizado o comando **@font-face** e depois basta associar com o nome aplicado através da propriedade **font-family**. Veja o exemplo:
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        @font-face {
+            family: "Roboto";
+            src: url(Roboto-Regular.ttf);
+        }
+        
+        div {
+            font-family: Roboto;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p>É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p>E ainda tem personagens completos, com diversas características legais.</p>
+        <p>Leia e Han Solo são o casal mais sensacional do universo!</p>
+        <p>Mas não esqueça do Chewie! Arrrrghhhhhh!!!!</p>
+    </div>
+</body>
+</html>
+```
+
+Tem-se o seguinte resultado:
+
 
 
