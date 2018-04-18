@@ -75,7 +75,7 @@ Para criar a família de fonte é utilizado o comando **@font-face** e depois ba
             family: "Roboto";
             src: url(Roboto-Regular.ttf);
         }
-        
+
         div {
             font-family: Roboto;
         }
@@ -94,6 +94,8 @@ Para criar a família de fonte é utilizado o comando **@font-face** e depois ba
 ```
 
 Tem-se o seguinte resultado:
+
+![](/assets/font-face.png)
 
 
 
