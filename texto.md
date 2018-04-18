@@ -62,3 +62,7 @@ Resultado:
 
 ![](/assets/fonts.png)
 
+Caso seja uma opção utilizar uma família de fonte que não esteja instalada no computador do cliente, é possível informar o arquivo de uma família de fonte armazenada no servidor e fazer com que o navegador utilize ela. Porém, cuidado com  o tipo de fonte, pois não são todas suportadas nos navegadores.
+
+
+
