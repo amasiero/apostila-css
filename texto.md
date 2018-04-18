@@ -97,5 +97,47 @@ Tem-se o seguinte resultado:
 
 ![](/assets/font-face.png)
 
+## Propriedades do texto
+
+A primeira propriedade que é apresentada referente a textos em geral tem como objetivo trabalhar o alinhamento do texto. Essa propriedade é o **text-align** e ela pode receber os seguintes valores: left \(alinhado à esquerda\), right \(alinhado à direita\), center \(centralizado\) e justify \(alinhado de maneira onde os textos tem a mesma proporção entre as linhas\). Veja o exemplo:
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p.a {
+            text-align: left;
+        }
+
+        p.b {
+            text-align: right;
+        }
+
+        p.c {
+            text-align: center;
+        }
+
+        p.d {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p class="a">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p class="b">E ainda tem personagens completos, com diversas características legais.</p>
+        <p class="c">Leia e Han Solo são o casal mais sensacional do universo!</p>
+        <p class="d">Mas não esqueça do Chewie! Arrrrghhhhhh!!!!</p>
+    </div>
+</body>
+</html>
+```
+
+Resultado:![](/assets/text-align.png)
+
+
+
 
 
