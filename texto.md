@@ -283,5 +283,7 @@ A última propriedade de texto apresentada é **text-transform**. Essa proprieda
 
 Resultado:
 
+![](/assets/text-transform.png)
+
 
 
