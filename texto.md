@@ -220,5 +220,34 @@ Resultado:
 
 ![](/assets/text-indent.png)
 
+Ainda existe a propriedade **text-shadow** que aplica uma sombra no texto. Essa propriedade recebe os seguintes parâmetros: deslocamento horizontal \(aceita valores negativos\), deslocamento vertical \(aceita valores negativos\), suavização da sombra \(opcional\) e a cor da sombra. Veja o exemplo:
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p {
+            text-shadow: 5px 5px 5px #888;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p>É a história mais incrível que já existiu! Desculpa Batman!
+        E ainda tem personagens completos, com diversas características legais.
+        Leia e Han Solo são o casal mais sensacional do universo!
+        Mas não esqueça do Chewie! Arrrrghhhhhh!!!!</p>
+    </div>
+</body>
+</html>
+```
+
+Resultado:
+
+![](/assets/text-shadow.png)
+
 
 
