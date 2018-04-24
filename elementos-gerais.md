@@ -70,8 +70,13 @@ Além da espessura, é possível alterar também o estilo da borda. Para isso, �
 
 * ridge : borda rugosa;
 
-* inset : borda intercalar;
+* inset : borda intercalar interna;
 
-* 
+* outset : borda intercalar externa;
+
+* none : sem borda;
+
+* hidden : borda oculta. 
+
 
 
