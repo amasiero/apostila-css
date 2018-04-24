@@ -76,7 +76,44 @@ Além da espessura, é possível alterar também o estilo da borda. Para isso, �
 
 * none : sem borda;
 
-* hidden : borda oculta. 
+* hidden : borda oculta.
+
+Existe também a possibilidade de aplicar um estilo diferente para cada borda do elemento. A seguir, é demonstrado o código para aplicação dos 4 principais estilos de bordas.
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p#linha1 {
+            border-style: dotted;
+        }
+
+        p#linha2 {
+            border-style: dashed;
+        }
+
+        p#linha3 {
+            border-style: solid;
+        }
+
+        p#linha4 {
+            border-style: double;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Star Wars</h1>
+        <p id="linha1">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p id="linha2">E ainda tem personagens completos, com diversas características legais.</p>
+        <p id="linha3">Leia e Han Solo são o casal mais sensacional do universo!</p>
+        <p id="linha4">Mas não esqueça do Chewie! Arrrrghhhhhh!!!!</p>
+    </div>
+</body>
+</html>
+```
 
 
 
