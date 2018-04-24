@@ -159,7 +159,28 @@ Resultado obtido:
 Por fim, a propriedade de arredondar os cantos é a **border-radius**. Nessa propriedade são informados 4 parâmetros. Da esquerda para a direita os significados são: superior esquerdo, superior direito, inferior direito e inferior esquerdo. Os parâmetros podem ser determinados de acordo com as unidades de medidas existentes, como por exemplo, px, pt, cm, em, etc. A seguir o código para exemplificar a propriedade **border-radius**:
 
 ```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p#linha1 {
+            border-style: solid;
+            border-radius: 5px 5px 5px 5px;
+        }
 
+        p#linha2 {
+            border-style: solid;
+            border-radius: 15px 15px 15px 15px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p id="linha1">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p id="linha2">E ainda tem personagens completos, com diversas características legais.</p>
+    </div>
+</body>
+</html>
 ```
 
 
