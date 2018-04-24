@@ -15,7 +15,7 @@ Segue o exemplo para a propriedade **border-width:**
 <head>
     <title>Exemplos de Estilo com CSS</title>
     <style type="text/css">
-        
+
         p#linha1 {
             border-style: solid;
             border-width: thin; 
@@ -50,5 +50,9 @@ Segue o exemplo para a propriedade **border-width:**
 </html>
 ```
 
+Resultado obtido:
 
+![](/assets/border-width.png)
+
+No código para linha 4, aplicou-se 4 valores na propriedade. Com essa técnica é possível aplicar uma espessura diferente para cada borda. Os parâmetros representam as seguintes bordas : topo, direita, baixo e esquerda.
 
