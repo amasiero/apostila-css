@@ -183,5 +183,7 @@ Por fim, a propriedade de arredondar os cantos é a **border-radius**. Nessa pro
 </html>
 ```
 
+Este é o resultado no navegador:
+
 
 
