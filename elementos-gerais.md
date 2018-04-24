@@ -117,5 +117,9 @@ Existe também a possibilidade de aplicar um estilo diferente para cada borda do
 
 Confira o resultado:
 
+![](/assets/border-style.png)
+
+Para alterar a cor da borda é necessário utilizar a propriedade **border-color**. Ela funciona da mesma maneira que a cor para o texto. Pode-se utilizar o nome da cor de maneira literal \(em inglês\) e também a aplicação de valores em hexadecimal. Veja o exemplo:
+
 
 
