@@ -58,4 +58,14 @@ No código para linha 4, aplicou-se 4 valores na propriedade. Com essa técnica 
 
 Além da espessura, é possível alterar também o estilo da borda. Para isso, é necessário alterar os valores da propriedade **border-style**. Essa propriedade tem alguns valores pré definidos:
 
+* dotted : borda pontilhada;
+
+* dashed : borda tracejada;
+
+* solid : borda contínua;
+
+* double : borda contínua dupla;
+
 * 
+
+
