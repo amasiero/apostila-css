@@ -66,7 +66,12 @@ Além da espessura, é possível alterar também o estilo da borda. Para isso, �
 
 * double : borda contínua dupla;
 
-* groove : 
+* groove : borda entalhada;
 
+* ridge : borda rugosa;
+
+* inset : borda intercalar;
+
+* 
 
 
