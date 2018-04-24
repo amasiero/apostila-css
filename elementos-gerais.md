@@ -156,5 +156,5 @@ Resultado obtido:
 
 ![](/assets/border-color.png)
 
-Por fim, a propriedade de arredondar os cantos é a **border-radius**. Nessa propriedade são informados 4 parâmetros. Da esquerda para a direita os significados são: superior esquerdo, superior direito, inferior direito e inferior esquerdo.
+Por fim, a propriedade de arredondar os cantos é a **border-radius**. Nessa propriedade são informados 4 parâmetros. Da esquerda para a direita os significados são: superior esquerdo, superior direito, inferior direito e inferior esquerdo. Os parâmetros podem ser determinados de acordo com as unidades de medidas existentes, como por exemplo, px, pt, cm, em, etc.
 
