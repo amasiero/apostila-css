@@ -185,5 +185,5 @@ Por fim, a propriedade de arredondar os cantos é a **border-radius**. Nessa pro
 
 Este é o resultado no navegador:
 
-
+![](/assets/border-radius.png)
 
