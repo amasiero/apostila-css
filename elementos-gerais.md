@@ -56,3 +56,5 @@ Resultado obtido:
 
 No código para linha 4, aplicou-se 4 valores na propriedade. Com essa técnica é possível aplicar uma espessura diferente para cada borda. Os parâmetros representam as seguintes bordas : topo, direita, baixo e esquerda.
 
+Além da espessura, é possível alterar também o estilo da borda. Para isso, é necessário alterar os valores da propriedade **border-style**. 
+
