@@ -121,5 +121,40 @@ Confira o resultado:
 
 Para alterar a cor da borda é necessário utilizar a propriedade **border-color**. Ela funciona da mesma maneira que a cor para o texto. Pode-se utilizar o nome da cor de maneira literal \(em inglês\) e também a aplicação de valores em hexadecimal. Veja o exemplo:
 
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p#linha1 {
+            border-style: solid;
+            border-color: red;
+        }
+
+        p#linha2 {
+            border-style: solid;
+            border-color: #a32200
+        }
+
+        p#linha3 {
+            border-style: solid;
+            border-color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p id="linha1">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p id="linha2">E ainda tem personagens completos, com diversas características legais.</p>
+        <p id="linha3">Leia e Han Solo são o casal mais sensacional do universo!</p>
+    </div>
+</body>
+</html>
+```
+
+Resultado obtido:
+
+![](/assets/border-color.png)
+
 
 
