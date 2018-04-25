@@ -227,5 +227,38 @@ O resultado é:
 
 O elemento em verde está com as margins configuradas para exemplificar a diferença na configuração da distância entre os elementos.
 
+O padding segue o mesmo princípio e definições da margin para trabalhar com a propriedade no código CSS. A diferença é que o padding trabalha com a borda interna do elemento. É a distância entre o conteúdo do elemento e seus limites. O exemplo abaixo demonstra uma configuração de paddings entre dois parágrafos.
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p{width: 500px;}
+        p#linha1 {
+            border-style: solid;
+            border-color: darkgreen;
+            border-radius: 5px 5px 5px 5px;
+            background-color: lightgreen;
+        }
+
+        p#linha2 {
+            border-color: darkred;
+            border-style: solid;
+            border-radius: 5px 5px 5px 5px;
+            background-color: salmon;
+            padding: 20px 20px 20px 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p id="linha1">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p id="linha2">E ainda tem personagens completos, com diversas características legais.</p>
+    </div>
+</body>
+</html>
+```
+
 
 
