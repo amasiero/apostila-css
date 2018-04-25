@@ -260,5 +260,9 @@ O padding segue o mesmo princípio e definições da margin para trabalhar com a
 </html>
 ```
 
+O resultado é apresentado na figura abaixo:
+
+![](/assets/padding.png)
+
 
 
