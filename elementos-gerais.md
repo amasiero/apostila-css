@@ -189,5 +189,39 @@ Este é o resultado no navegador:
 
 ## Margin e Padding
 
-Margin é a propriedade que define a distância entre as bordas externas do elemento e os demais integrantes da página. Ela pode ser trabalha de maneira unificida através da propriedade ** margin** ou de maneira individual com as propriedades: **margin-top, margin-right, margin-bottom **e **margin-left**. 
+Margin é a propriedade que define a distância entre as bordas externas do elemento e os demais integrantes da página. Ela pode ser trabalha de maneira unificida através da propriedade ** margin** ou de maneira individual com as propriedades: **margin-top, margin-right, margin-bottom **e **margin-left**. Ao utilizar de maneira unificada, a sequência dos parâmetros informada deve ser: topo, direita, embaixo e esquerda. A seguir, um exemplo de configuração de margin:
+
+```html
+<html>
+<head>
+    <title>Exemplos de Estilo com CSS</title>
+    <style type="text/css">
+        p{width: 500px;}
+        p#linha1 {
+            border-style: solid;
+            border-color: darkgreen;
+            border-radius: 5px 5px 5px 5px;
+            background-color: lightgreen;
+            margin: 60px 10px 40px 50px;
+        }
+
+        p#linha2 {
+            border-style: solid;
+            border-radius: 5px 5px 5px 5px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1> Star Wars </h1>
+        <p id="linha1">É a história mais incrível que já existiu! Desculpa Batman!</p>
+        <p id="linha2">E ainda tem personagens completos, com diversas características legais.</p>
+    </div>
+</body>
+</html>
+```
+
+O resultado é:
+
+![](/assets/margin.png)
 
