@@ -189,7 +189,5 @@ Este é o resultado no navegador:
 
 ## Margin e Padding
 
-
-
-
+Margin é a propriedade que define a distância entre as bordas externas do elemento e os demais integrantes da página. Ela pode ser trabalha de maneira unificida através da propriedade ** margin** ou de maneira individual com as propriedades: **margin-top, margin-right, margin-bottom **e **margin-left**. 
 
