@@ -264,5 +264,5 @@ O resultado é apresentado na figura abaixo:
 
 ![](/assets/padding.png)
 
-
+Perceba que além de colocar a margin interna o padding aumenta o tamanho do elemento. Isso ocorre, pois o padding preenche o elemento com os espaços solicitados. Então ao utilizar a configuração de padding é preciso se atentar para que o layout do projeto não seja perdido ao final.
 
