@@ -225,3 +225,7 @@ O resultado é:
 
 ![](/assets/margin.png)
 
+O elemento em verde está com as margins configuradas para exemplificar a diferença na configuração da distância entre os elementos.
+
+
+
